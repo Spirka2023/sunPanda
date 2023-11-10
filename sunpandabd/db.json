@@ -1,0 +1,69 @@
+{
+    "items": [
+      { "id": 1, "name": "Суши креветка","img": "sushi_krevetka.jpg", "desc": "desc1", "category": "sushi", "price": 96, "count":1},
+      { "id": 2, "name": "Суши лосось", "img": "sushi_losos.jpg", "desc": "desc2", "category": "sushi", "price": 66, "count":1 },
+      { "id": 3, "name": "Суши угорь", "img": "sushi_ugor.jpg", "desc": "desc3", "category": "hot rolls", "price": 84, "count":1 }
+    ],
+    
+    "categories": [{
+      "key": "all",
+      "name": "Всё меню",
+      "image": "vse-tovari.c8b7cad5.png"
+  },
+  {
+      "key": "sushi",
+      "name": "Суши и роллы",
+      "image": "23-icon.jpg"
+  },
+  {
+      "key": "hot rolls",
+      "name": "Горячие роллы",
+      "image": "rollicon.jpg"
+  },
+  {
+      "key": "baked rolls",
+      "name": "Запечённые роллы",
+      "image": "25-icon.jpg"
+  },
+  {
+    "key": "seti",
+    "name": "Сеты",
+    "image": "seti-icon.jpg"
+},
+{
+    "key": "pizza",
+    "name": "Пицца",
+    "image": "pizza-icon.jpg"
+},
+{
+  "key": "hamburger",
+  "name": "Гамбургеры",
+  "image": "31-icon.jpg"
+},
+{
+  "key": "zakuski",
+  "name": "Закуски",
+  "image": "32-icon.jpg"
+},
+{
+  "key": "soup",
+  "name": "Супы",
+  "image": "33-icon.jpg"
+},
+{
+"key": "hot dishes",
+"name": "Горячие блюда",
+"image": "34-icon.jpg"
+},
+{
+"key": "salat",
+"name": "Салаты",
+"image": "40-icon.jpg"
+},
+{
+"key": "beverages",
+"name": "Напитки",
+"image": "39-icon.jpg"
+}
+]
+  }
